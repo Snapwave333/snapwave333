@@ -15,13 +15,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate snake SVG
-        uses: platane/snk@v3
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
         with:
           github_user_name: "snapwave333"
-          outputs: dist/snake.svg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Publish SVG to output branch
+      - name: Publish SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
