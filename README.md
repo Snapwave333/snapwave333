@@ -1,11 +1,11 @@
 # Hi, I'm Snapwave333
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=snapwave333&style=flat-square&color=blue" alt="Profile views" />
+  <img src="assets/banner.jpg" alt="Profile banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Snapwave333/snapwave333/main/assets/banner.jpg" alt="Profile banner" />
+  <img src="https://komarev.com/ghpvc/?username=snapwave333&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 <p align="center">
