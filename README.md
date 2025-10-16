@@ -26,10 +26,15 @@
 - Comfortable with JavaScript, Python, React.
 - Always learning and exploring new stacks.
 
-## Skills
+## 🚀 Some Tools I Have Used and Learned
 
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,python,react" alt="Skills" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
 </p>
 
 ## Links
@@ -59,7 +64,11 @@
 
 ## Contribution Snake
 
-<!-- This image will appear after the workflow generates it -->
+<!-- The images below will appear after the workflow generates them and publishes to the 'output' branch -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/snapwave333/snapwave333/output/snake.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snapwave333/snapwave333/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snapwave333/snapwave333/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/snapwave333/snapwave333/output/github-snake.svg" />
+  </picture>
 </p>
