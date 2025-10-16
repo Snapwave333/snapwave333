@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/snapwave333/snapwave333/main/assets/banner.png" alt="Profile banner" />
+  <img src="https://raw.githubusercontent.com/Snapwave333/snapwave333/main/assets/banner.jpg" alt="Profile banner" />
 </p>
 
 <p align="center">
@@ -29,12 +29,12 @@
 ## 🚀 Some Tools I Have Used and Learned
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/Snapwave333/snapwave333/main/assets/devicon/vscode.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/Snapwave333/snapwave333/main/assets/devicon/bash.svg" alt="bash" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/Snapwave333/snapwave333/main/assets/devicon/php.svg" alt="php" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/Snapwave333/snapwave333/main/assets/devicon/javascript.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/Snapwave333/snapwave333/main/assets/devicon/python.svg" alt="python" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/Snapwave333/snapwave333/main/assets/devicon/react.svg" alt="react" width="45" height="45"/>
 </p>
 
 ## Links
@@ -56,7 +56,10 @@
 
 ## Featured projects
 
-- [Placeholder] Add featured repositories here (e.g., top projects, tools, or libraries).
+- https://github.com/Snapwave333/emp2
+- https://github.com/Snapwave333/whowantstobeashillonaire
+- https://github.com/Snapwave333/Shillornoshill_public
+- https://github.com/Snapwave333/Nomis
 
 ## Fun fact
 
@@ -67,8 +70,8 @@
 <!-- The images below will appear after the workflow generates them and publishes to the 'output' branch -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snapwave333/snapwave333/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snapwave333/snapwave333/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/snapwave333/snapwave333/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Snapwave333/snapwave333/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Snapwave333/snapwave333/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Snapwave333/snapwave333/output/github-snake.svg" />
   </picture>
 </p>
