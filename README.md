@@ -28,13 +28,42 @@
 
 ## 🚀 Some Tools I Have Used and Learned
 
+<!-- Mixed local and CDN icons; we'll vendor the new ones locally next -->
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Snapwave333/snapwave333/main/assets/devicon/vscode.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/Snapwave333/snapwave333/main/assets/devicon/bash.svg" alt="bash" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/Snapwave333/snapwave333/main/assets/devicon/php.svg" alt="php" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/Snapwave333/snapwave333/main/assets/devicon/javascript.svg" alt="javascript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/Snapwave333/snapwave333/main/assets/devicon/python.svg" alt="python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/Snapwave333/snapwave333/main/assets/devicon/react.svg" alt="react" width="45" height="45"/>
+  <!-- Local icons -->
+  <img src="https://raw.githubusercontent.com/Snapwave333/snapwave333/main/assets/devicon/vscode.svg" alt="VS Code" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/Snapwave333/snapwave333/main/assets/devicon/bash.svg" alt="Bash" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/Snapwave333/snapwave333/main/assets/devicon/php.svg" alt="PHP" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/Snapwave333/snapwave333/main/assets/devicon/javascript.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/Snapwave333/snapwave333/main/assets/devicon/python.svg" alt="Python" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/Snapwave333/snapwave333/main/assets/devicon/react.svg" alt="React" width="45" height="45"/>
+  
+  <!-- New via CDN (to be vendored) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" alt="Objective-C" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" alt="Perl" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="45" height="45"/>
+  <!-- SQL: use popular engines to represent -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL (MySQL)" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL (PostgreSQL)" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL (SQLite)" width="45" height="45"/>
+  <!-- VB.NET represented by .NET platform icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="VB.NET (.NET)" width="45" height="45"/>
 </p>
 
 ## Links
